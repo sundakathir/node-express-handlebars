@@ -12,7 +12,8 @@ MySQL, Node, Express, Handlebars, ORM
 https://git.heroku.com/mynodeexpresshandlebars.git
 
 # aplication screenshot 
-Main page (./public/assets/imgges/application.png)
+![Main Page](./public/assets/images/application.png)
+
 
 
 
